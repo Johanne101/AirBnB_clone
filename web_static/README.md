@@ -46,8 +46,8 @@ To begin coding HTML you need only two stuff: a simple-text editor and a web bro
 What is a markup language
 --------------------------
 
-What is the DOM
-----------------
+What is the [DOM](http://cf.ppt-online.org/files/slide/l/lG6hjyFR8carDYH7oVAtPW3exEOg0sSpQ1JKfm/slide-4.jpg)
+------------------
 <p>
 When a web page is loaded, the browser creates a **Document Object Model** of the page.
 
@@ -58,8 +58,17 @@ The *HTML DOM* model is constructed as a tree of *Objects*:
 
 </p>
 
-What is an element / tag
+What is an [element](https://www.w3schools.com/tags/default.asp) / [tag](https://www.w3schools.com/tags/default.asp)
 -------------------------
+
+||HTML|Definition| Usage|
+||:---|:--------:|-----:|
+|element||||
+tag|[Body](https://www.w3schools.com/tags/tag_body.asp)|||
+|tag|[Header](https://www.w3schools.com/tags/tag_header.asp)|element represents a container for introductory content or a set of navigational links.||
+|tag|[Footer](https://www.w3schools.com/tags/tag_footer.asp)|ag defines a footer for a document or section.||
+
+
 What is an attribute
 -------------------------
 

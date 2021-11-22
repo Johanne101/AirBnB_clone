@@ -27,11 +27,19 @@ Indeed, without any structure, you can’t apply any design.
 >:alien:
 
 
-What is HTML
+What is HTML :checkmark: 🤌🏽
 -------------
+
+* The ***HyperText Markup Language***, or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
 How to create an HTML page
 ---------------------------
+* An HTML file is simply a text file saved with an .html or .htm extension.
+>Getting Started:
+
+To begin coding HTML you need only two stuff: a simple-text editor and a web browser. Well, let's get started with creating your first HTML page
+
+![alt text](https://learn.shayhowe.com/assets/images/courses/html-css/getting-to-know-html/building-structure.png)
 
 What is a markup language
 --------------------------

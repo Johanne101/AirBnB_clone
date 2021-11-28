@@ -61,12 +61,12 @@ The *HTML DOM* model is constructed as a tree of *Objects*:
 What is an [element](https://www.w3schools.com/tags/default.asp) / [tag](https://www.w3schools.com/tags/default.asp)
 -------------------------
 
-||HTML|Definition| Usage|
-||:---|:--------:|-----:|
-|element||||
-tag|[Body](https://www.w3schools.com/tags/tag_body.asp)|||
-|tag|[Header](https://www.w3schools.com/tags/tag_header.asp)|element represents a container for introductory content or a set of navigational links.||
-|tag|[Footer](https://www.w3schools.com/tags/tag_footer.asp)|ag defines a footer for a document or section.||
+| |HTML|Definition| Usage|
+| |:---|:--------:|-----:|
+|element|2|3|4|
+tag|[Body](https://www.w3schools.com/tags/tag_body.asp)|3|4|
+|tag|[Header](https://www.w3schools.com/tags/tag_header.asp)|element represents a container for introductory content or a set of navigational links.|4|
+|tag|[Footer](https://www.w3schools.com/tags/tag_footer.asp)|tag defines a footer for a document or section.|4|
 
 
 What is an attribute

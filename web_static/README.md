@@ -222,17 +222,20 @@ Think of specificity as a score/rank that determines which style declarations ar
 
 The universal selector (`*`) has low specificity, while ID selectors are highly specific!
 </p>
+
 [Specificity Hiherarchy](https://www.w3schools.com/css/css_specificity.asp)
 
 What are Box properties in CSS<a name="Box_properties"></a>
 --------------------------------
 <p>
 Every element that can be displayed on a web page is comprised of one or more rectangular boxes. CSS box model typically describes how these rectangular boxes are laid out on a web page.
-</p>![picture alt](https://www.tutorialrepublic.com/lib/images/css-box-model.png)
 
-<p>
+![alt text](https://www.tutorialrepublic.com/lib/images/css-box-model.png)
+
+
 These boxes can have different properties and can interact with each other in different ways, but every box has a content area and optional surrounding padding, border, and margin areas.
 </p>
+
 Resources
 ============
 

@@ -3,7 +3,9 @@ __Learn how to manipulate HTML and CSS languages__
 AirBnB clone - Web static
 ==========================
 <p>
-![alt text](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
+
+![picture alt](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
+
 </p>
 
 ## Web static, what???
@@ -21,31 +23,33 @@ Create simple HTML static pages
 * No data loaded from anything
 ```
 
-[What is HTML](#HTML/CSS)
+***JUMP TO...***:
 
-[How to create an HTML page](#HTML_steps)
+1. [What is HTML](#HTML/CSS)
 
-[What is a markup language](#markup_language)
+2. [How to create an HTML page](#HTML_steps)
 
-[What is the DOM](#DOM)
+3. [What is a markup language](#markup_language)
 
-[What is an element / tag](#element/tag)
+4. [What is the DOM](#DOM)
 
-[What is an attribute](#Atributes)
+5. [What is an element / tag](#element/tag)
 
-[How does the browser load a webpage](#load_webpage)
+6. [What is an attribute](#Atributes)
 
-[What is CSS](#CSS)
+7. [How does the browser load a webpage](#load_webpage)
 
-[How to add style to an element](#Style_element)
+8. [What is CSS](#CSS)
 
-[What is a class](#Class)
+9. [How to add style to an element](#Style_element)
 
-[What is a selector](#Selectors)
+10. [What is a class](#Class)
 
-[How to compute CSS Specificity Value](#CSS_specifics)
+11. [What is a selector](#Selectors)
 
-[What are Box properties in CSS](#Box_properties)
+12. [How to compute CSS Specificity Value](#CSS_specifics)
+
+13. [What are Box properties in CSS](#Box_properties)
 
 
 >Learn everything in 15 min?!?!

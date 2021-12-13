@@ -2,7 +2,10 @@ __Learn how to manipulate HTML and CSS languages__
 
 AirBnB clone - Web static
 ==========================
+<p>
 ![picture alt](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
+</p>
+
 ## Web static, what???
 ```
 Now having a command interpreter for managing your AirBnB objects, it’s time to make them alive!
@@ -96,29 +99,26 @@ What is a markup language<a name="markup_language"></a>
 <p>
 A markup language is a computer language that uses tags to define elements within a document. It is human-readable, meaning markup files contain standard words, rather than typical programming syntax.While several markup languages exist, the two most popular are HTML and XML.. HTML is a markup language used for creating webpages.The contents of each webpage are defined by HTML tags.
 </p>
-What is the [DOM](http://cf.ppt-online.org/files/slide/l/lG6hjyFR8carDYH7oVAtPW3exEOg0sSpQ1JKfm/slide-4.jpg)<a name="DOM"></a>
+
+What is the [DOM](http://cf.ppt-online.org/files/slide/l/lG6hjyFR8carDYH7oVAtPW3exEOg0sSpQ1JKfm/slide-4.jpg) <a name="DOM"></a>
 ------------------
+
 <p>
 When a web page is loaded, the browser creates a **Document Object Model** of the page.
 
 The *HTML DOM* model is constructed as a tree of *Objects*:
 
 ![alt text](https://www.w3schools.com/js/pic_htmltree.gif)
-
-
 </p>
-
-![alt text](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
 
 What is an [element](https://www.w3schools.com/tags/default.asp) / [tag](https://www.w3schools.com/tags/default.asp)<a name="element/tag"></a>
 -------------------------
 <p>
 Technically, an ***HTML element*** is the collection of start tag, its attributes, an end tag and everything in between.
 An ***HTML tag*** (either opening or closing) is used to mark the start or end of an element.
-The terms HTML *element* and HTML _tag_ are interchangeable
+The terms HTML *element* and HTML *tag* are interchangeable
 i.e. a tag is an element and element is a tag.
-For simplicity's sake, the terms "tag" and "element" ***are*** used to mean ***the same thing*** __as it will define something on your web page__.
-</p>
+For simplicity's sake, the terms "tag" and "element" ***are*** used to mean ***the same thing*** ***as it will define something on your web page***.
 
 * Element : An HTML element is an individual component of an HTML document.It represents semantics, or meaning.
   * An element is the basic building block of HTML and is typically made up of two tags: an opening tag and a closing tag.
@@ -126,9 +126,9 @@ For simplicity's sake, the terms "tag" and "element" ***are*** used to mean ***t
 
 |**Block elements**|Types|*Self Closing Elements*|
 |-----|:-----:|:-:|
-| **X**|`<div>` divisions|No|
-| **X**|`<p>` paragraphs |No|
-|**X**|`<h1>`-`<h6>`(Multiple Headings)|No|
+| **X**|`<div>` *(divisions)*|No|
+| **X**|`<p>` *(paragraphs)* |No|
+|**X**|`<h1>`-`<h6>` *(Multiple Headings)*|No|
 | | `<form>`|
 | | `<ol>`|
 | |`<ul>`|
@@ -146,21 +146,25 @@ For simplicity's sake, the terms "tag" and "element" ***are*** used to mean ***t
 ||`<input>`|
 ||`<button>`|
 
-*Generally, block-level elements may contain inline elements and other block-level elements.* *For example, paragraph element (<p>), headings (<h1> to <h6>), divisions (<div>) etc.*|
+> *Generally, block-level elements may contain inline elements and other block-level elements.* *For example, paragraph element (<p>), headings (<h1> to <h6>), divisions (<div>) etc.*
+</p>
 
 What is an [attribute](https://www.tutorialrepublic.com/html-tutorial/html-attributes.php)<a name="Atributes"></a>
 -------------------------
 <p>
 Attributes are properties used to provide additional information about an element.
 They define additional characteristics or properties of the element such as width and height of an image.
+
   * Provide additional information about elements
   * all HTML elements can have attributes
   * are always specified in the start tag (or opening tag)
   * and usually consists of name/value pairs like `name="value"`
+
 Attribute values should always be enclosed in quotation marks.
 
 Some attributes are required for certain elements. For instance, an `<img>` tag must contain a `src` and `alt` attributes.
 </p>
+
 |**Atributes**|Types |
 |-------------|:------:|
 |identifies an element|`id `|
@@ -168,14 +172,15 @@ Some attributes are required for certain elements. For instance, an `<img>` tag 
 |specifies a source for embeddable content|`src`|
 |provides a hyperlink reference to a URL of the page linked resource.|`href`|
 
-Summary: All HTML elements can have attributes
-* The `href` attribute of <a> specifies the URL of the page the link goes to
-* The src attribute of <img> specifies the path to the image to be displayed
-* The width and height attributes of <img> provide size information for images
-* The alt attribute of <img> provides an alternate text for an image
-* The style attribute is used to add styles to an element, such as color, font, size, and more
-* The lang attribute of the <html> tag declares the language of the Web page
-* The title attribute defines some extra information about an element
+Summary: All HTML elements can have attributes:
+
+* The `href` attribute of `<a>` specifies the URL of the page the link goes to
+* The `src` attribute of `<img>` specifies the path to the image to be displayed
+* The `width` and `height` attributes of `<img>` provide size information for images
+* The `alt` attribute of `<img>` provides an alternate text for an image
+* The `style` attribute is used to add styles to an element, such as color, font, size, and more
+* The `lang` attribute of the `<html>` tag declares the language of the Web page
+* The `title` attribute defines some extra information about an element
 
 How does the browser load a webpage<a name="load_webpage"></a>
 ------------------------------------

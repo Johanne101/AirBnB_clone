@@ -3,7 +3,7 @@ __Learn how to manipulate HTML and CSS languages__
 AirBnB clone - Web static
 ==========================
 <p>
-![picture alt](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
+![alt text](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
 </p>
 
 ## Web static, what???
@@ -146,7 +146,8 @@ For simplicity's sake, the terms "tag" and "element" ***are*** used to mean ***t
 ||`<input>`|
 ||`<button>`|
 
-> *Generally, block-level elements may contain inline elements and other block-level elements.* *For example, paragraph element (<p>), headings (<h1> to <h6>), divisions (<div>) etc.*
+> *Generally, block-level elements may contain inline elements and other block-level elements.* *For example, paragraph element (`<p>`), headings (`<h1>` to `<h6>`), divisions (`<div>`) etc.*
+
 </p>
 
 What is an [attribute](https://www.tutorialrepublic.com/html-tutorial/html-attributes.php)<a name="Atributes"></a>

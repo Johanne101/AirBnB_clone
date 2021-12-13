@@ -41,10 +41,13 @@ Learn to Code HTML & CSS 🤌🏽 <a name="HTML/CSS"></a>
 -------------
 > Develop & Style Websites 
 
-* The ***HyperText Markup Language***, or HTML is the standard markup language for documents designed to be displayed in a web browser.
+* The HTML is ***HyperText Markup Language***, is the standard markup language for documents designed to be displayed in a web browser.
+In other words, the text on a web page is “marked up” with these codes to give the web browser instructions about how to display the text.
+which means that it is written with codes readable by a person without it needing to be compiled first.
+
 <p>
 HTML is the structure of your page, it should be the first thing to write.
-CSS is the styling of your page, the design. I really encourage you to fix your HTML part before starting the styling.
+CSS is the styling of your page, the design. make sure to fix your HTML part before starting the styling.
 Indeed, without any structure, you can’t apply any design.
 </p>
 
@@ -55,7 +58,7 @@ How to create an [HTML page](https://www.tutorialrepublic.com/html-tutorial/html
 * An HTML file is simply a text file saved with an .html or .htm extension.
 >Getting Started:
 
-To begin coding HTML you need only two stuff: a simple-text editor and a web browser. Well, let's get started with creating your first HTML page
+To begin coding HTML you need only two stuff: a simple-text editor and a web browser.
 
 ![picture alt](https://learn.shayhowe.com/assets/images/courses/html-css/getting-to-know-html/building-structure.png)
 
@@ -87,7 +90,9 @@ For simplicity's sake, the terms "tag" and "element" are used to mean the same t
 </p>
 
 * Element : An HTML element is an individual component of an HTML document. It represents semantics, or meaning.
-  i. Elements can also contain attributes that defines its additional properties. 
+  i. An element is the basic building block of HTML and is typically made up of two tags: an opening tag and a closing tag.
+  ii. It can also contain attributes that defines its additional properties.
+
 | |HTML|Definition| Usage|
 | |:---|:--------:|-----:|
 |element|2|3|4|

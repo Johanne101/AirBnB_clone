@@ -93,21 +93,39 @@ For simplicity's sake, the terms "tag" and "element" are used to mean the same t
   i. An element is the basic building block of HTML and is typically made up of two tags: an opening tag and a closing tag.
   ii. It can also contain attributes that defines its additional properties.
 
-| |HTML|Definition| Usage|
-| |:---|:--------:|-----:|
-|element|2|3|4|
-tag|[Body](https://www.w3schools.com/tags/tag_body.asp)|3|4|
-|tag|[Header](https://www.w3schools.com/tags/tag_header.asp)|element represents a container for introductory content or a set of navigational links.|4|
-|tag|[Footer](https://www.w3schools.com/tags/tag_footer.asp)|tag defines a footer for a document or section.|4|
+|**Block elements**| types |
+|-------------------|:-----:|
+| | `<div>`|
+| | `<p>`|
+| | `<h1>`-`<h6>`|
+| | `<form>`|
+| | `<ol>`|
+| |`<ul>`|
+| | `<li>`|
+|**Inline elements**|Types |
+|-------------------|:------:|
+||`<img>`|
+||`<a>`|
+||`<span>`|
+||`<strong>`|
+||`<b>`|
+||`<em>`|
+||`<i>`|
+||`<code>`|
+||`<input>`|
+||`<button>`|
 
-![picture alt](https://www.tutorialrepublic.com/lib/images/html-element.png)
 
-| |element | tag|
-|-|:-------|---:|
-|i.e.| the `title` element represents the title of the document.| Most HTML elements are written with a start tag (or opening tag) and an end tag (or closing tag), with content in between.|
-|usage|
-What is an attribute<a name="Atributes"></a>
+What is an [attribute](https://www.tutorialrepublic.com/html-tutorial/html-attributes.php)<a name="Atributes"></a>
 -------------------------
+<p>
+Attributes define additional characteristics or properties of the element such as width and height of an image.
+  * are always specified in the start tag (or opening tag)
+  * and usually consists of name/value pairs like `name="value"`
+Attribute values should always be enclosed in quotation marks.
+
+Some attributes are required for certain elements. For instance, an `<img>` tag must contain a `src` and `alt` attributes.
+</p>
 
 How does the browser load a webpage<a name="load_webpage"></a>
 ------------------------------------

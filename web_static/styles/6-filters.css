@@ -49,6 +49,7 @@ ul.popover li {
 	padding-left: 30px;
 }
 ul.popover {
+	display: none;
 	background-color: #FAFAFA;
 	width: 100%;
 	margin: auto;
